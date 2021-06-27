@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Eduardo Ribeiro!</h1>
 <h3 align="center">Professor de Física e Matemática, e no caminho de ser programador :)</h3>
 
-- 🔭 Atualmente estudante de programação na [BlueEdTech](https://blueedtech.com.br/)
+- 🔭 Estudante de programação na [BlueEdTech](https://blueedtech.com.br/)
 
 - 🌱 Atualmente estou aprendendo **Lógica de Programação e Python**
 
-<h3 align="left">Você me acha no:</h3>
+<h3 align="left">Você me encontra no:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ribeiro-eduardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeiro-eduardo" height="30" width="40" /></a>
 <a href="https://instagram.com/o.ribeiroedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o.ribeiroedu" height="30" width="40" /></a>
