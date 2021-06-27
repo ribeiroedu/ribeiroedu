@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o Eduardo Ribeiro!</h1>
 <h3 align="center">Professor de Física e Matemática, e no caminho de ser programador :)</h3>
 
+- 🔭 Atualmente estudante de programação na [BlueEdTech](https://blueedtech.com.br/)
+
+- 🌱 Atualmente estou aprendendo **Lógica de Programação e Python**
+
 - 📫 How to reach me **ed.almeidaribeiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
